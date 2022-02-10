@@ -1,5 +1,6 @@
 # Mon projet Flask
 
-J'ai réalisé un petit blog web en utilisant Flask et SQLite en Python 3 qui permet à utilisateur de consulter tous les articles de sa base de données
-et cliquer sur le titre d'un article pour en voir le contenu, avec la possibilité d'ajouter un nouvel article à la base de données et de modifier
-ou supprimer un article existant.
+J'ai réalisé un petit blog web en utilisant Flask et SQLite en Python 3 qui
+permet à utilisateur d'ajouter un nouvel article à sa base de données et de le modifier
+ou de le supprimer. Il peut aussi consulter tous les articles de sa base de données
+en cliquant sur son titre pour en voir le contenu.
