@@ -5,4 +5,4 @@ permet à utilisateur d'ajouter un nouvel article à sa base de données et de l
 ou de le supprimer. Il peut aussi consulter tous les articles de sa base de données
 en cliquant sur son titre pour en voir le contenu.
 
-[intro-flask-python3.pdf](https://github.com/falilou15/projet_flask_falilou/files/8042987/intro-flask-python3.pdf)
+https://python.developpez.com/tutoriel/intro-flask-python3/#LX
